@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118231155379",
+    "project_id": "autentificador-senai-5",
+    "storage_bucket": "autentificador-senai-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118231155379:android:d03147744c95b0a6e126c6",
+        "android_client_info": {
+          "package_name": "com.example.autenticaaofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQcWrkaUUuXhoEmwrhkT5G20i5Y8XvAR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
